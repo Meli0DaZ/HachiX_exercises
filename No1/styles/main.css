@@ -1,0 +1,9 @@
+.img_half {
+	transform: scale(0.5);
+}
+
+h1,
+.he {
+	text-align: center;
+	color: royalblue;
+}
